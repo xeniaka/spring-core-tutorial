@@ -1,0 +1,5 @@
+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(°Âåøÿÿÿÿ
+csquid:S2259"INullPointerException might be thrown as 'accountService' is nullable here(Ö“ˆçüÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(àüÌöüÿÿÿÿ

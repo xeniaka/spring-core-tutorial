@@ -1,0 +1,6 @@
+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(–ºÕ¹ùÿÿÿÿ8§ØÜµ,
+Csquid:S1068".Remove this unused "accountDao" private field.(Àùœş
+@squid:S1168"+Return an empty collection instead of null.(¥¹ï
+Osquid:S1068"5Remove this unused "accountValidation" private field.(ìÌÒ«ıÿÿÿÿ
